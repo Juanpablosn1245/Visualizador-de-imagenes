@@ -29,7 +29,7 @@
 
 
 ## ⬇️ Installation
-- Is in the source code lol
+what
 
 
 ## ⬇️ Build
