@@ -1,2 +1,0 @@
-you need to install this, and all lol
-https://pypi.org/project/auto-py-to-exe/
